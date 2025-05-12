@@ -1,0 +1,5 @@
+outs:
+- md5: 7e2918caef7375ecac8b9a87110f633f
+  size: 943320
+  hash: md5
+  path: mnist_mlp_model.pt
